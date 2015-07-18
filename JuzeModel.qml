@@ -1,0 +1,65 @@
+// import QtQuick 1.0 // to target S60 5th Edition or Maemo 5
+import QtQuick 2.0
+
+ListModel {
+    ListElement {numjuze : 1; page1 : 1; page2:8; page3:10; page4: 12;}
+    ListElement {numjuze : 2; page1 : 14; page2:17; page3:20; page4: 22;}
+    ListElement {numjuze : 3; page1 : 25; page2:27; page3:30; page4: 32;}
+    ListElement {numjuze : 4; page1 : 35; page2:37; page3:40; page4: 42;}
+    ListElement {numjuze : 5; page1 : 45; page2:47; page3:49; page4: 52;}
+    ListElement {numjuze : 6; page1 : 54; page2:57; page3:59; page4: 62;}
+    ListElement {numjuze : 7; page1 : 65; page2:67; page3:70; page4: 72;}
+    ListElement {numjuze : 8; page1 : 75; page2:77; page3:80; page4: 82;}
+    ListElement {numjuze : 9; page1 : 85; page2:87; page3:90; page4: 92;}
+    ListElement {numjuze : 10; page1 : 95; page2:97; page3:100; page4: 103;}
+    ListElement {numjuze : 11; page1 : 105; page2:107; page3:109; page4: 112;}
+    ListElement {numjuze : 12; page1 : 115; page2:117; page3:120; page4: 122;}
+    ListElement {numjuze : 13; page1 : 124; page2:127; page3:129; page4: 132;}
+    ListElement {numjuze : 14; page1 : 135; page2:137; page3:140; page4: 143;}
+    ListElement {numjuze : 15; page1 : 145; page2:147; page3:149; page4: 151;}
+    ListElement {numjuze : 16; page1 : 154; page2:157; page3:159; page4: 161;}
+    ListElement {numjuze : 17; page1 : 165; page2:167; page3:170; page4: 173;}
+    ListElement {numjuze : 18; page1 : 176; page2:178; page3:180; page4: 182;}
+    ListElement {numjuze : 19; page1 : 185; page2:187; page3:190; page4: 192;}
+    ListElement {numjuze : 20; page1 : 195; page2:197; page3:199; page4: 202;}
+    ListElement {numjuze : 21; page1 : 202; page2:207; page3:209; page4: 212;}
+    ListElement {numjuze : 22; page1 : 215; page2:217; page3:220; page4: 222;}
+    ListElement {numjuze : 23; page1 : 225; page2:227; page3:229; page4: 231;}
+    ListElement {numjuze : 24; page1 : 234; page2:236; page3:239; page4: 241;}
+    ListElement {numjuze : 25; page1 : 245; page2:247; page3:250; page4: 252;}
+    ListElement {numjuze : 26; page1 : 255; page2:257; page3:259; page4: 262;}
+    ListElement {numjuze : 27; page1 : 265; page2:267; page3:270; page4: 273;}
+    ListElement {numjuze : 28; page1 : 275; page2:278; page3:280; page4: 283;}
+    ListElement {numjuze : 29; page1 : 285; page2:287; page3:290; page4: 292;}
+    ListElement {numjuze : 30; page1 : 295; page2:298; page3:300; page4: 302;}
+    ListElement {numjuze : 31; page1 : 305; page2:307; page3:309; page4: 312;}
+    ListElement {numjuze : 32; page1 : 315; page2:318; page3:320; page4: 322;}
+    ListElement {numjuze : 33; page1 : 325; page2:327; page3:329; page4: 332;}
+    ListElement {numjuze : 34; page1 : 335; page2:337; page3:339; page4: 342;}
+    ListElement {numjuze : 35; page1 : 343; page2:343; page3:343; page4: 343;}
+    ListElement {numjuze : 36; page1 : 345; page2:347; page3:350; page4: 353;}
+    ListElement {numjuze : 37; page1 : 355; page2:357; page3:359; page4: 362;}
+    ListElement {numjuze : 38; page1 : 365; page2:367; page3:370; page4: 372;}
+    ListElement {numjuze : 39; page1 : 374; page2:377; page3:380; page4: 382;}
+    ListElement {numjuze : 40; page1 : 385; page2:387; page3:389; page4: 392;}
+    ListElement {numjuze : 41; page1 : 395; page2:397; page3:399; page4: 402;}
+    ListElement {numjuze : 42; page1 : 405; page2:407; page3:410; page4: 413;}
+    ListElement {numjuze : 43; page1 : 416; page2:418; page3:421; page4: 423;}
+    ListElement {numjuze : 44; page1 : 425; page2:428; page3:429; page4: 432;}
+    ListElement {numjuze : 45; page1 : 434; page2:436; page3:439; page4: 442;}//434
+    ListElement {numjuze : 46; page1 : 445; page2:447; page3:449; page4: 452;}
+    ListElement {numjuze : 47; page1 : 454; page2:457; page3:459; page4: 462;}
+    ListElement {numjuze : 48; page1 : 465; page2:467; page3:470; page4: 472;}
+    ListElement {numjuze : 49; page1 : 475; page2:477; page3:480; page4: 482;}
+    ListElement {numjuze : 50; page1 : 485; page2:487; page3:489; page4: 491;}
+    ListElement {numjuze : 51; page1 : 494; page2:496; page3:499; page4: 502;}
+    ListElement {numjuze : 52; page1 : 505; page2:508; page3:510; page4: 513;}
+    ListElement {numjuze : 53; page1 : 516; page2:518; page3:520; page4: 522;}
+    ListElement {numjuze : 54; page1 : 525; page2:527; page3:529; page4: 532;}
+    ListElement {numjuze : 55; page1 : 534; page2:537; page3:539; page4: 542;}
+    ListElement {numjuze : 56; page1 : 545; page2:547; page3:550; page4: 553;}
+    ListElement {numjuze : 57; page1 : 556; page2:557; page3:561; page4: 563;}
+    ListElement {numjuze : 58; page1 : 565; page2:567; page3:569; page4: 572;}
+    ListElement {numjuze : 59; page1 : 575; page2:578; page3:580; page4: 582;}
+    ListElement {numjuze : 60; page1 : 585; page2:588; page3:590; page4: 592;}
+}

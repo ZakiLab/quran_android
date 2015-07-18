@@ -1,0 +1,123 @@
+// import QtQuick 1.0 // to target S60 5th Edition or Maemo 5
+import QtQuick 2.0
+
+ListModel {
+    ListElement {        sourat : "Al-Fatihah";        img : "1.png";        page : 4 ;    }
+    ListElement {        sourat : "Al-Baqarah";        img : "2.png";        page : 5 ;    }
+    ListElement {        sourat : "`Ali `Imran";        img : "3.png";        page : 53 ;
+    }ListElement {        sourat : "An-Nisa'";        img : "4.png";        page : 80;
+    }ListElement {        sourat : "Al-Ma'idah";        img : "5.png";        page : 109;
+    }ListElement {        sourat : "Al-'An`am";        img : "6.png";        page : 131 ;
+    }ListElement {        sourat : "Al-'A`raf";        img : "7.png";        page : 154 ;
+    }ListElement {        sourat : "Al-'Anfal";        img : "8.png";        page : 180 ;
+    }ListElement {        sourat : "At-Tawbah";        img : "9.png";        page : 190 ;
+    }ListElement {        sourat : "Yunus";        img : "10.png";        page : 211;
+    }ListElement {        sourat : "Hud";        img : "11.png";        page : 224;
+    }ListElement {        sourat : "Yusuf";        img : "12.png";        page : 238;
+    }ListElement {        sourat : "Ar-Ra`d";        img : "13.png";        page : 252;
+    }ListElement {        sourat : "Ibrahim";        img : "14.png";        page : 258;
+    }ListElement {        sourat : "Al-Hijr";        img : "15.png";        page : 265;
+    }ListElement {        sourat : "An-Nahl";        img : "16.png";        page : 270;
+    }ListElement {        sourat : "Al-'Isra'";        img : "17.png";        page : 285 ;
+    }ListElement {        sourat : "Al-Kahf";        img : "18.png";        page : 296;
+    }ListElement {        sourat : "Maryam";        img : "19.png";        page :  308;
+    }ListElement {        sourat : "Taha";        img : "20.png";        page : 315;
+    }ListElement {        sourat : "Al-'Anbya'";        img : "21.png";        page : 325;
+    }ListElement {        sourat : "Al-Haj";        img : "22.png";        page : 335;
+    }ListElement {        sourat : "Al-Mu'minun";        img : "23.png";        page : 345;
+    }ListElement {        sourat : "An-Nur";        img : "24.png";        page : 353;
+    }ListElement {        sourat : "Al-Furqan";        img : "25.png";        page : 362;
+    }ListElement {        sourat : "Ash-Shu`ara";        img : "26.png";        page : 370;
+    }ListElement {        sourat : "An-Naml";        img : "27.png";        page : 380;
+    }ListElement {        sourat : "Al-Qasas";        img : "28.png";        page : 388;
+    }ListElement {        sourat : "Al-`Ankabut";        img : "29.png";        page : 399;
+    }ListElement {        sourat : "Ar-Rum";        img : "30.png";        page : 407;
+    }ListElement {        sourat : "Luqman";        img : "31.png";        page : 414;
+    }ListElement {        sourat : "As-Sajdah";        img : "32.png";        page : 418;
+    }ListElement {        sourat : "Al-'Ahzab";        img : "33.png";        page : 421;
+    }ListElement {        sourat : "Saba'";        img : "34.png";        page : 431;
+    }ListElement {        sourat : "Fatir";        img : "35.png";        page : 437;
+    }ListElement {        sourat : "Ya-Sin";        img : "36.png";        page : 443;
+    }ListElement {        sourat : "As-Saffat";        img : "37.png";        page : 449;
+    }ListElement {        sourat : "Sad";        img : "38.png";        page : 456;
+    }ListElement {        sourat : "Az-Zumar";        img : "39.png";        page : 461;
+    }ListElement {        sourat : "Ghafir";        img : "40.png";        page : 470;
+    }ListElement {        sourat : "Fussilat";        img : "41.png";        page : 480;
+    }ListElement {        sourat : "Ash-Shuraa";        img : "42.png";        page : 486;
+    }ListElement {        sourat : "Az-Zukhruf";        img : "43.png";        page : 492;
+    }ListElement {        sourat : "Ad-Dukhan";        img : "44.png";        page : 499;
+    }ListElement {        sourat : "Al-Jathiyah";        img : "45.png";        page : 502;
+    }ListElement {        sourat : "Al-'Ahqaf";        img : "46.png";        page : 505;
+    }ListElement {        sourat : "Muhammad";        img : "47.png";        page : 510;
+    }ListElement {        sourat : "Al-Fath";        img : "48.png";        page : 514;
+    }ListElement {        sourat : "Al-Hujurat";        img : "49.png";        page : 518;
+    }ListElement {        sourat : "Qaf";        img : "50.png";        page : 521;
+    }ListElement {        sourat : "Adh-Dhariyat";        img : "51.png";        page : 523;
+    }ListElement {        sourat : "At-Tur";        img : "52.png";        page : 526;
+    }ListElement {        sourat : "An-Najm";        img : "53.png";        page : 529;
+    }ListElement {        sourat : "Al-Qamar";        img : "54.png";        page : 531;
+    }ListElement {        sourat : "Ar-Rahman";        img : "55.png";        page : 534;
+    }ListElement {        sourat : "Al-Waqi`ah";        img : "56.png";        page : 537;
+    }ListElement {        sourat : "Al-Hadid";        img : "57.png";        page : 540;
+    }ListElement {        sourat : "Al-Mujadila";        img : "58.png";        page : 545;
+    }ListElement {        sourat : "Al-Hashr";        img : "59.png";        page : 548;
+    }ListElement {        sourat : "Al-Mumtahanah";        img : "60.png";        page : 552;
+    }ListElement {        sourat : "As-Saf";        img : "61.png";        page : 554;
+    }ListElement {        sourat : "Al-Jumu`ah";        img : "62.png";        page : 556;
+    }ListElement {        sourat : "Al-Munafiqun";        img : "63.png";        page : 557;
+    }ListElement {        sourat : "At-Taghabun";        img : "64.png";        page : 559;
+    }ListElement {        sourat : "At-Talaq";        img : "65.png";        page : 561;
+    }ListElement {        sourat : "At-Tahrim";        img : "66.png";        page : 563;
+    }ListElement {        sourat : "Al-Mulk";        img : "67.png";        page : 565;
+    }ListElement {        sourat : "Al-Qalam";        img : "68.png";        page : 567;
+    }ListElement {        sourat : "Al-Haqqah";        img : "69.png";        page : 569;
+    }ListElement {        sourat : "Al-Ma`arij";        img : "70.png";        page : 571;
+    }ListElement {        sourat : "Nuh";        img : "71.png";        page : 573;
+    }ListElement {        sourat : "Al-Jinn";        img : "72.png";        page : 575;
+    }ListElement {        sourat : "Al-Muzzammil";        img : "73.png";        page : 577;
+    }ListElement {        sourat : "Al-Muddaththir";        img : "74.png";        page : 578;
+    }ListElement {        sourat : "Al-Qiyamah";        img : "75.png";        page : 580;
+    }ListElement {        sourat : "Al-'Insan";        img : "76.png";        page : 581;
+    }ListElement {        sourat : "Al-Mursalat";        img : "77.png";        page : 583;
+    }ListElement {        sourat : "An-Naba'";        img : "78.png";        page : 585;
+    }ListElement {        sourat : "An-Nazi`at";        img : "79.png";        page : 586;
+    }ListElement {        sourat : "Abasa";        img : "80.png";        page : 588;
+    }ListElement {        sourat : "At-Takwir";        img : "81.png";        page : 589;
+    }ListElement {        sourat : "Al-'Infitar";        img : "82.png";        page : 590;
+    }ListElement {        sourat : "Al-Mutaffifin";        img : "83.png";        page : 590;
+    }ListElement {        sourat : "Al-'Inshiqaq";        img : "84.png";        page : 592;
+    }ListElement {        sourat : "Al-Buruj";        img : "85.png";        page : 593;
+    }ListElement {        sourat : "At-Tariq";        img : "86.png";        page : 594;
+    }ListElement {        sourat : "Al-'A`la";        img : "87.png";        page : 594;
+    }ListElement {        sourat : "Al-Ghashiyah";        img : "88.png";        page : 595;
+    }ListElement {        sourat : "Al-Fajr";        img : "89.png";        page : 596;
+    }ListElement {        sourat : "Al-Balad";        img : "90.png";        page : 597;
+    }ListElement {        sourat : "Ash-Shams";        img : "91.png";        page : 598;
+    }ListElement {        sourat : "Al-Layl";        img : "92.png";        page : 598;
+    }ListElement {        sourat : "Ad-Duhaa";        img : "93.png";        page : 599;
+    }ListElement {        sourat : "Ash-Sharh";        img : "94.png";        page : 599;
+    }ListElement {        sourat : "At-Tin";        img : "95.png";        page : 600;
+    }ListElement {        sourat : "Al-`Alaq";        img : "96.png";        page : 600;
+    }ListElement {        sourat : "Al-Qadr";        img : "97.png";        page : 601;
+    }ListElement {        sourat : "Al-Bayyinah";        img : "98.png";        page : 601;
+    }ListElement {        sourat : "Az-Zalzalah";        img : "99.png";        page : 602;
+    }ListElement {        sourat : "Al-`Adiyat";        img : "100.png";        page : 602;
+    }ListElement {        sourat : "Al-Qari`ah";        img : "101.png";        page : 603;
+    }ListElement {        sourat : "At-Takathur";        img : "102.png";        page : 603;
+    }ListElement {        sourat : "Al-`Asr";        img : "103.png";        page : 604;
+    }ListElement {        sourat : "Al-Humazah";        img : "104.png";        page : 604;
+    }ListElement {        sourat : "Al-Fil";        img : "105.png";        page : 604;
+    }ListElement {        sourat : "Quraysh";        img : "106.png";        page : 605;
+    }ListElement {        sourat : "Al-Ma`un";        img : "107.png";        page : 605;
+    }ListElement {        sourat : "Al-Kawthar";        img : "108.png";        page : 605;
+    }ListElement {        sourat : "Al-Kafirun";        img : "109.png";        page : 606;
+    }ListElement {        sourat : "An-Nasr";        img : "110.png";        page : 606;
+    }ListElement {        sourat : "Al-Masad";        img : "111.png";        page :606 ;
+    }ListElement {        sourat : "Al-'Ikhlas";        img : "112.png";        page : 607;
+    }ListElement {        sourat : "Al-Falaq";        img : "113.png";        page : 607;
+    }ListElement {        sourat : "An-Nas";        img : "114.png";        page :607 ;
+    }
+
+
+
+}
